@@ -1,0 +1,56 @@
+2021-09-15 08:56:49,040 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2021-09-15 08:56:49,341 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2021-09-15 08:56:49,375 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2021-09-15 08:56:49,560 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1631671009353&signature=7255de8c459e5632c320ec99207dcd3fc73c0251dceb6bbfa68ee4119dea08f0 HTTP/1.1" 200 None
+2021-09-15 08:56:49,567 INFO :: Binance Futures Client successfully initialized
+2021-09-15 08:56:49,711 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2021-09-15 08:56:50,159 INFO :: Binance connection opened
+2021-09-15 08:56:50,160 INFO :: Binance: subscribing to: btcusdt@bookTicker
+2021-09-15 08:56:50,509 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/instrument/active HTTP/1.1" 200 None
+2021-09-15 08:56:50,757 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2021-09-15 08:56:51,761 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/user/margin?currency=all HTTP/1.1" 200 None
+2021-09-15 08:56:51,767 INFO :: Bitmex Client successfully initialized
+2021-09-15 08:56:52,993 INFO :: Bitmex connection opened
+2021-09-15 08:57:01,188 WARNING :: Binance Websocket connection closed
+2021-09-15 08:57:01,439 WARNING :: Bitmex Websocket connection closed
+2021-09-17 17:44:02,342 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2021-09-17 17:44:02,909 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2021-09-17 17:44:02,928 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2021-09-17 17:44:03,126 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1631875442922&signature=a13120fcea8dfcf0992ef7b840a1a4eda7fcc1fa5ab62e39478983e98b25722b HTTP/1.1" 200 None
+2021-09-17 17:44:03,134 INFO :: Binance Futures Client successfully initialized
+2021-09-17 17:44:04,026 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2021-09-17 17:44:05,129 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/instrument/active HTTP/1.1" 200 None
+2021-09-17 17:44:05,146 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2021-09-17 17:44:05,651 INFO :: Binance connection opened
+2021-09-17 17:44:05,654 INFO :: Binance: subscribing to: btcusdt@bookTicker
+2021-09-17 17:44:06,150 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/user/margin?currency=all HTTP/1.1" 200 None
+2021-09-17 17:44:06,157 INFO :: Bitmex Client successfully initialized
+2021-09-17 17:44:07,404 INFO :: Bitmex connection opened
+2021-09-17 17:46:57,169 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2021-09-17 17:46:57,569 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2021-09-17 17:46:57,593 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2021-09-17 17:46:57,920 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1631875617582&signature=59003ffac854b553e9448dde2ede47ba72a886e47200f9e05d1c52593e3ef351 HTTP/1.1" 200 None
+2021-09-17 17:46:57,929 INFO :: Binance Futures Client successfully initialized
+2021-09-17 17:46:58,019 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2021-09-17 17:46:58,531 INFO :: Binance connection opened
+2021-09-17 17:46:58,531 INFO :: Binance: subscribing to: btcusdt@bookTicker
+2021-09-17 17:46:59,104 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/instrument/active HTTP/1.1" 200 None
+2021-09-17 17:46:59,141 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2021-09-17 17:47:00,234 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/user/margin?currency=all HTTP/1.1" 200 None
+2021-09-17 17:47:00,240 INFO :: Bitmex Client successfully initialized
+2021-09-17 17:47:01,594 INFO :: Bitmex connection opened
+2021-09-17 17:47:09,161 WARNING :: Binance Websocket connection closed
+2021-09-17 17:47:09,421 WARNING :: Bitmex Websocket connection closed
+2021-09-17 22:17:39,146 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2021-09-17 22:17:39,399 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2021-09-17 22:17:39,419 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2021-09-17 22:17:39,883 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1631891859413&signature=93355a87e6b4a099a7c7853465285c8684002f2e0d1ca861b1308495eb2906e6 HTTP/1.1" 200 None
+2021-09-17 22:17:39,888 INFO :: Binance Futures Client successfully initialized
+2021-09-17 22:17:39,964 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2021-09-17 22:17:40,382 INFO :: Binance connection opened
+2021-09-17 22:17:40,387 INFO :: Binance: subscribing to: btcusdt@bookTicker
+2021-09-17 22:17:40,981 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/instrument/active HTTP/1.1" 200 None
+2021-09-17 22:17:41,240 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2021-09-17 22:17:42,442 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/user/margin?currency=all HTTP/1.1" 200 None
+2021-09-17 22:17:42,449 INFO :: Bitmex Client successfully initialized
+2021-09-17 22:17:43,882 INFO :: Bitmex connection opened
