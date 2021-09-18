@@ -59,9 +59,10 @@ class Strategy:
 
         timestamp_diff = int(time.time() * 1000) - timestamp
         if timestamp_diff >= 2000:
+            time.sleep(2)
             logger.warning("%s %s: %s milliseconds of difference between the current time and the trade time",
                            self.exchange, self.contract.symbol, timestamp_diff)
-        time.sleep(2)
+        
 
         last_candle = self.candles[-1]
 
